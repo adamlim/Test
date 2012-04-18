@@ -39,6 +39,7 @@ Hello - Taufik
 Hello - Harry Saputra
 hello - neiL
 Hello - Ikmal Ezzani
+Hello - Alex
 
 ** CONFLICT TEST **
 My name is Taufik. I'm writing on the same line.
